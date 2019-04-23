@@ -69,6 +69,11 @@ a{
     margin-bottom:3rem;
     width: 100%;
   }
+  
+  .description{
+  line-height: 2;
+  font-size: 15px;
+  }
 }
 
 .name{
